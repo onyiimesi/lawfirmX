@@ -7,7 +7,7 @@
 
 * There are two folders
 1. lawfirmx (Frontend) built using Vue.js
-2. admin (Backend) built using Laravel
+2. laravelapp (Backend) built using Laravel
 
 ########## lawfirmx ###########################
 * Clone or download the lawfirmx.
